@@ -1,0 +1,15 @@
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\bin\Debug\net7.0\ATM.exe
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\bin\Debug\net7.0\ATM.deps.json
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\bin\Debug\net7.0\ATM.runtimeconfig.json
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\bin\Debug\net7.0\ATM.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\bin\Debug\net7.0\ATM.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ATM.csproj.AssemblyReference.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ATM.AssemblyInfoInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ATM.AssemblyInfo.cs
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ATM.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\refint\ATM.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ATM.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ATM.genruntimeconfig.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab02\ATM\obj\Debug\net7.0\ref\ATM.dll
