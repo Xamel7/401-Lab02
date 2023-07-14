@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ATM\ATM.csproj" />
+  </ItemGroup>
+
 </Project>

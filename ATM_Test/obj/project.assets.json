@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "ATM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ATM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ATM.dll": {}
+        }
       }
     }
   },
@@ -5506,10 +5516,16 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "ATM/1.0.0": {
+      "type": "project",
+      "path": "../ATM/ATM.csproj",
+      "msbuildProject": "../ATM/ATM.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "ATM >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5548,7 +5564,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Student-16\\Documents\\GitHub\\Dev\\401-Lab02\\ATM\\ATM.csproj": {
+              "projectPath": "C:\\Users\\Student-16\\Documents\\GitHub\\Dev\\401-Lab02\\ATM\\ATM.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
